@@ -3,7 +3,7 @@ import {
   Truck, Package, Camera, MapPin, Users, FileText, CheckCircle, Clock, 
   Home, Briefcase, User, ChevronRight, AlertCircle, X, ChevronLeft, 
   Plus, Check, Image as ImageIcon, Navigation, Phone, MessageSquare,
-  FileSpreadsheet, Download, MoreVertical, CreditCard, PieChart
+  FileSpreadsheet, Download, MoreVertical, CreditCard, PieChart, Calendar
 } from 'lucide-react';
 import { BarChart, Bar, ResponsiveContainer, XAxis, Tooltip } from 'recharts';
 import clsx from 'clsx';
